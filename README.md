@@ -9,4 +9,4 @@ Computer Systems Engineering student at Arizona State University (Barrett Honors
 Currently working on an AES-256 crypto accelerator.
 
 ## Tools
-SystemVerilog · Xilinx Vivado and related tools · cocotb · Icarus Verilog · GTKWave
+SystemVerilog · Xilinx Vivado · cocotb · Icarus Verilog · GTKWave
