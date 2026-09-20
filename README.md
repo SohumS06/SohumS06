@@ -6,7 +6,7 @@ Computer Systems Engineering student at Arizona State University (Barrett Honors
 - **[UART Transceiver](https://github.com/SohumS06/uart-transceiver)** — full UART RX/TX built as a fused FSMD in SystemVerilog, verified in simulation and on hardware (Nexys A7-100T).
 - **[FIFO with AXI4-Stream](https://github.com/SohumS06/FIFO)** — parameterized synchronous FIFO wrapped in an AXI4-Stream interface, verified with directed and scoreboard-based randomized cocotb tests.
 
-Currently working on an AES-256 crypto accelerator as the next project in this pipeline.
+Currently working on an AES-256 crypto accelerator.
 
 ## Tools
-SystemVerilog · Vivado · cocotb · Icarus Verilog · GTKWave
+SystemVerilog · Xilinx Vivado and related tools · cocotb · Icarus Verilog · GTKWave
